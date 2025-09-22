@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Temp\\ITP\\issues\\",
+  "WorkspaceRootPath": "C:\\Temp\\ITP\\02_ITP_DM_RN_RL\\issues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|c:\\temp\\itp\\issues\\issues\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|C:\\Temp\\ITP\\02_ITP_DM_RN_RL\\issues\\issues\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|solutionrelative:issues\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|C:\\Temp\\ITP\\issues\\issues\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|c:\\temp\\itp\\02_itp_dm_rn_rl\\issues\\issues\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|solutionrelative:issues\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,22 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Temp\\ITP\\issues\\issues\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ITP\\02_ITP_DM_RN_RL\\issues\\issues\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "issues\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Temp\\ITP\\issues\\issues\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ITP\\02_ITP_DM_RN_RL\\issues\\issues\\MainWindow.xaml.cs",
               "RelativeToolTip": "issues\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T12:10:16.401Z"
+              "WhenOpened": "2025-09-22T12:10:16.401Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Temp\\ITP\\issues\\issues\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ITP\\02_ITP_DM_RN_RL\\issues\\issues\\MainWindow.xaml",
               "RelativeDocumentMoniker": "issues\\MainWindow.xaml",
-              "ToolTip": "C:\\Temp\\ITP\\issues\\issues\\MainWindow.xaml",
-              "RelativeToolTip": "issues\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ITP\\02_ITP_DM_RN_RL\\issues\\issues\\MainWindow.xaml*",
+              "RelativeToolTip": "issues\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-22T12:10:17.004Z",
               "EditorCaption": ""
