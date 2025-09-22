@@ -4,6 +4,6 @@
         Title="WPF Beispiel" Height="200" Width="400">
     <Grid Background="LightGreen">
         <Label Name="myLabel" Content="1000" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" FontFamily="Comic Sans MS"/>
-        <Button Content="Coole Funktion" Width="100" Height="30" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,20" Click="Button_Click" FontFamily="Comic Sans MS" Background="DeepPink"/>
+        <Button Content="CooleF unktion" Width="100" Height="30" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,20" Click="Button_Click" FontFamily="Comic Sans MS" Background="DeepPink"/>
     </Grid>
 </Window>
