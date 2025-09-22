@@ -1,0 +1,15 @@
+C:\Temp\ITP\issues\issues\bin\Debug\issues.exe.config
+C:\Temp\ITP\issues\issues\bin\Debug\issues.exe
+C:\Temp\ITP\issues\issues\bin\Debug\issues.pdb
+C:\Temp\ITP\issues\issues\obj\Debug\issues.csproj.AssemblyReference.cache
+C:\Temp\ITP\issues\issues\obj\Debug\MainWindow.baml
+C:\Temp\ITP\issues\issues\obj\Debug\MainWindow.g.cs
+C:\Temp\ITP\issues\issues\obj\Debug\App.g.cs
+C:\Temp\ITP\issues\issues\obj\Debug\issues_MarkupCompile.cache
+C:\Temp\ITP\issues\issues\obj\Debug\issues.g.resources
+C:\Temp\ITP\issues\issues\obj\Debug\issues.Properties.Resources.resources
+C:\Temp\ITP\issues\issues\obj\Debug\issues.csproj.GenerateResource.cache
+C:\Temp\ITP\issues\issues\obj\Debug\issues.csproj.CoreCompileInputs.cache
+C:\Temp\ITP\issues\issues\obj\Debug\issues.exe
+C:\Temp\ITP\issues\issues\obj\Debug\issues.pdb
+C:\Temp\ITP\issues\issues\obj\Debug\issues.exe.config
