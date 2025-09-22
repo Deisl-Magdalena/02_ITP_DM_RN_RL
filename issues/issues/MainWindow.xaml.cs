@@ -16,7 +16,7 @@ namespace WpfApp
 
             // Den Wert um 7 verringern
             currentValue -= 7;
-
+            if;
             // Den neuen Wert ins Label setzen
             myLabel.Content = currentValue.ToString();
         }
