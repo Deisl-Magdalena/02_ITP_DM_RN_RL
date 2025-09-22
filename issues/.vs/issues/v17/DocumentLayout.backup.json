@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Temp\\ITP\\02_ITP_DM_RN_RL\\issues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|C:\\Temp\\ITP\\02_ITP_DM_RN_RL\\issues\\issues\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|c:\\temp\\itp\\02_itp_dm_rn_rl\\issues\\issues\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|solutionrelative:issues\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|c:\\temp\\itp\\02_itp_dm_rn_rl\\issues\\issues\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|C:\\Temp\\ITP\\02_ITP_DM_RN_RL\\issues\\issues\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9730F360-7CF9-4068-BBD3-0C03FBBCAC92}|issues\\issues.csproj|solutionrelative:issues\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "issues\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T12:10:16.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T12:10:16.401Z"
             },
             {
               "$type": "Document",
