@@ -18,6 +18,10 @@ namespace WpfApp
             currentValue -= 7;
 
             // Den neuen Wert ins Label setzen
+            if(currentValue < 0)
+            {  
+                currentValue = 1000;
+            }
             myLabel.Content = currentValue.ToString();
         }
     }
